@@ -19,7 +19,7 @@
 #define WXWIN_OS_DESCRIPTION "arm-unknown-linux-androideabi"
 
 /* the installation location prefix from configure */
-#define wxINSTALL_PREFIX "/usr/local"
+#define wxINSTALL_PREFIX "/home/dsr/test/OCPNAndroidCoreBuildSupport/wxWidgets"
 
 /* Define to `int' if <sys/types.h> doesn't define.  */
 /* #undef gid_t */
@@ -378,7 +378,7 @@
 #define wxUSE_COMBOBOX 1
 #define wxUSE_COMMANDLINKBUTTON 1
 #define wxUSE_DATAVIEWCTRL 1
-#define wxUSE_DATEPICKCTRL  0
+#define wxUSE_DATEPICKCTRL 1
 #define wxUSE_DIRPICKERCTRL 1
 #define wxUSE_EDITABLELISTBOX 1
 #define wxUSE_FILECTRL 1
@@ -402,7 +402,7 @@
 #define wxUSE_STATTEXT 1
 #define wxUSE_STATBMP 1
 #define wxUSE_TEXTCTRL 1
-#define wxUSE_TIMEPICKCTRL  0
+#define wxUSE_TIMEPICKCTRL 1
 #define wxUSE_TOGGLEBTN 1
 #define wxUSE_TREECTRL 1
 #define wxUSE_TREELISTCTRL 1
